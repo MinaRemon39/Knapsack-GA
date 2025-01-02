@@ -37,7 +37,8 @@
 1. Python as programming language
 2. Flask as micro web framework to turn our algorithm to api 
 3. Custom Tkinter to make our gui
-![Screenshot 2024-12-25 045233](https://github.com/user-attachments/assets/37fca824-e98b-473a-bcef-e0d70e59bdc8)
+![Screenshot 2024-12-25 045233](https://github.com/user-attachments/assets/54ec61e5-2df2-4af1-a7f4-8b59ec3d42ba)
+
 <hr>
 
 ## Contact US
