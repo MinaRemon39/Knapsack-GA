@@ -1,6 +1,7 @@
 # Knapsack problem with genetic algorithm 
 
-![natural selection](https://github.com/user-attachments/assets/7f02e95e-c7ca-48e1-b041-928588cc3a07)
+
+![natural selection](https://github.com/user-attachments/assets/0fdde927-8037-40b5-94a1-6f91ef868639)
 
 
 
@@ -23,7 +24,8 @@
 - Second: fitness function return total benefit if selected item_weights<max_weight
 - Third: select parents using roulette wheel method from result from fitness function
   
- ![Screenshot 2024-12-25 045233](https://github.com/user-attachments/assets/fc975a53-2782-4c93-aba6-c14a261fc514)
+ ![Screenshot 2024-12-25 045233](https://github.com/user-attachments/assets/70d22851-a635-4aef-9692-e08ee2ff8e45)
+
 
 
 - Fourth: apply crossover and mutation for next generation
